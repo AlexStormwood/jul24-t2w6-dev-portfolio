@@ -31,10 +31,6 @@ createRoot(document.getElementById('root')).render(
                 {/* localhost:5173/projects */}
                 <Route path='projects' element={<ProjectsPage />} />
               </Route>
-
-
-              
-
             </Routes>
 
     </BrowserRouter>
